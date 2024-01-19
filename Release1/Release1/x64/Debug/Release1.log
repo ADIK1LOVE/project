@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Honor\Desktop\Новая папка\Release1\Release1\main.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Honor\Desktop\Новая папка\Release1\Release1\main.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Honor\Desktop\Новая папка\Release1\Release1\main.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Honor\Desktop\Новая папка\Release1\Release1\main.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Honor\Desktop\Новая папка\Release1\Release1\main.cpp(11,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Release1.vcxproj -> C:\Users\Honor\Desktop\Новая папка\Release1\x64\Debug\Release1.exe
